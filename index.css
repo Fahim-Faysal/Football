@@ -311,7 +311,7 @@ Media queries
   
 .th, td {
     color:gold;
-    background-color: green;
+    background-color:black;
     text-align: left;
     padding: 10px 8px;
  }
